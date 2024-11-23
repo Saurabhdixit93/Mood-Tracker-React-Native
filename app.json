@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "MoodTracker",
+    "slug": "mood-tracker-app",
+    "owner": "saurabhdixit93",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saurabhdixit93.moodtracker"
+    },
+    "android": {
+      "package": "com.saurabhdixit93.moodtracker"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e306524e-687c-4b8d-ac7e-bfdd328c9ec9"
+      }
+    }
+  }
+}
